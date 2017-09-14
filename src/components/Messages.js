@@ -36,4 +36,4 @@ Messages.defaultProps = {
   messages: []
 };
 
-export default Message;
+export default Messages;
